@@ -25,7 +25,7 @@ A step-by-step guide to setting up and hosting a website on **Linux (CentOS Stre
   
 
 **📄 Documentation:**  
-[Download PDF](Creating_a_Website_on_Linux_CentOS_Stream_9.pdf)
+[Download PDF](Creating_a_Website_on_Linux_CentOS_Stream_9.pdf.pdf)
 
 
 
