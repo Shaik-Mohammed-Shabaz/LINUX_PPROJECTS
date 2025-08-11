@@ -8,7 +8,6 @@ Each project includes a **PDF document** with step-by-step instructions.
 🐧 Linux Projects Lists:
 
 
-📂 Projects-1
 
 1️⃣ Creating a Website on Linux (CentOS Stream 9)
    
