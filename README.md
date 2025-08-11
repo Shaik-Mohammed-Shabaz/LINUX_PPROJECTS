@@ -29,3 +29,8 @@ A step-by-step guide to setting up and hosting a website on **Linux (CentOS Stre
 
 
 *(More projects will be added here as I complete them.)*
+
+📌 Author
+**Mohammed Shabaz**  
+📧 Email: mohammedshabaz143786@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-shabaz-40365625a)
